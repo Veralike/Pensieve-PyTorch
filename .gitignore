@@ -1,0 +1,5 @@
+# 忽略数据集、运行结果以及视频源文件三个文件夹
+
+cooked_traces/
+video_server/
+results/
